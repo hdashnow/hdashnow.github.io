@@ -1,2 +1,9 @@
+# Jekyll
 _site/
 .sass-cache/
+
+# pyenv
+.python-version
+
+# ipython notebook
+notebooks/.ipynb_checkpoints/
