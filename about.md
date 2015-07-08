@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+
+![_config.yml]({{ site.baseurl }}/images/HarrietDashnow2014_head.jpg)
 
 Bioinformatician and PhD candidate<br>
 Murdoch Childrens Research Institute,<br>
