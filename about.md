@@ -15,7 +15,7 @@ harriet.dashnow [at] mcri.edu.au
 * [Linkedin profile](au.linkedin.com/in/hdashnow)
 * [University of Melbourne profile](https://www.vlsci.unimelb.edu.au/researcher/hdashnow)
 * [Publications](https://scholar.google.com.au/citations?user=4Y3m53gAAAAJ&hl=en)
-* [GitHub profile](https://pypi.python.org/pypi/pytest-cov)
+* [GitHub profile](https://github.com/hdashnow)
 * [COMBINE](combine.org.au)
 
 ## Education
