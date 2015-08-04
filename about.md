@@ -16,7 +16,7 @@ harriet.dashnow [at] mcri.edu.au
 * [University of Melbourne profile](https://www.vlsci.unimelb.edu.au/researcher/hdashnow)
 * [Publications](https://scholar.google.com.au/citations?user=4Y3m53gAAAAJ&hl=en)
 * [GitHub profile](https://github.com/hdashnow)
-* [COMBINE](combine.org.au)
+* [COMBINE](http://combine.org.au)
 
 ## Education
 * BSc, University of Melbourne
