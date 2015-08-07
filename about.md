@@ -12,10 +12,10 @@ Royal Children’s Hospital<br>
 harriet.dashnow [at] mcri.edu.au
 
 ## Links
-* [Linkedin profile](au.linkedin.com/in/hdashnow)
-* [University of Melbourne profile](https://www.vlsci.unimelb.edu.au/researcher/hdashnow)
-* [Publications](https://scholar.google.com.au/citations?user=4Y3m53gAAAAJ&hl=en)
-* [GitHub profile](https://github.com/hdashnow)
+* [Linkedin profile](http://au.linkedin.com/in/hdashnow)
+* [University of Melbourne profile](http://www.vlsci.unimelb.edu.au/researcher/hdashnow)
+* [Publications](http://scholar.google.com.au/citations?user=4Y3m53gAAAAJ&hl=en)
+* [GitHub profile](http://github.com/hdashnow)
 * [COMBINE](http://combine.org.au)
 
 ## Education
