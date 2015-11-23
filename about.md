@@ -29,3 +29,11 @@ harriet.dashnow [at] mcri.edu.au
 
 ## Research Interests
 Bioinformatics, Genomics, Next-generation sequencing, Variant calling, Human medical genomics, Bacterial genomics, Microsatellites.
+
+## Biography
+
+Harriet Dashnow is a bioinformatician and PhD candidate at the University of Melbourne and the Murdoch Children’s Research Institute. She has previously worked as a bioinformatician in the Department of Biochemistry at the University of Melbourne and the Victorian Life Sciences Computation Initiative (VLSCI), where she worked on the Melbourne Genomics Health Alliance project.
+
+Harriet obtained a Bachelor of Arts (Psychology), a Bachelor of Science (Genetics and Biochemistry) and a Master of Science (Bioinformatics) with Dean’s Honours from the University of Melbourne.
+
+Harriet is committed to serving the bioinformatics community through organisations such as COMBINE and the International Society for Computational Biology Student Council. She has substantial experience in teaching bioinformatics and genetics at both the undergraduate and graduate level. She organises and teaches computational skills workshops in such areas as genomics, Software Carpentry, Python, R, Unix and Git version control.
