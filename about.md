@@ -32,7 +32,7 @@ Bioinformatics, Genomics, Next-generation sequencing, Variant calling, Human med
 
 ## Biography
 
-Harriet Dashnow is a bioinformatician and PhD candidate at the University of Melbourne and the Murdoch Children’s Research Institute. She has worked as a bioinformatician at the Murdoch Childrens Research Institute, the Department of Biochemistry at the University of Melbourne and the Victorian Life Sciences Computation Initiative (VLSCI), where she worked on the Melbourne Genomics Health Alliance project.
+Harriet Dashnow is a bioinformatician and PhD candidate at the University of Melbourne and the Murdoch Children’s Research Institute. She has previously worked as a bioinformatician in the Department of Biochemistry at the University of Melbourne and the Victorian Life Sciences Computation Initiative (VLSCI), where she worked on the Melbourne Genomics Health Alliance project.
 
 Harriet obtained a Bachelor of Arts (Psychology), a Bachelor of Science (Genetics and Biochemistry) and a Master of Science (Bioinformatics) with Dean’s Honours from the University of Melbourne.
 
