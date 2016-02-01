@@ -37,3 +37,8 @@ Harriet Dashnow is a bioinformatician and PhD candidate at the University of Mel
 Harriet obtained a Bachelor of Arts (Psychology), a Bachelor of Science (Genetics and Biochemistry) and a Master of Science (Bioinformatics) with Dean’s Honours from the University of Melbourne.
 
 Harriet is committed to serving the bioinformatics community through organisations such as COMBINE and the International Society for Computational Biology Student Council. She has substantial experience in teaching bioinformatics and genetics at both the undergraduate and graduate level. She organises and teaches computational skills workshops in such areas as genomics, Software Carpentry, Python, R, Unix and Git version control.
+
+## Presentations and Posters
+* [Figshare](https://figshare.com/authors/Harriet_Dashnow/813049)
+* [F1000](http://f1000research.com/search?q=dashnow)
+* [SlideShare](http://www.slideshare.net/AustralianBioinformatics/how-we-became-bioinformaticians)
