@@ -38,6 +38,11 @@ Harriet obtained a Bachelor of Arts (Psychology), a Bachelor of Science (Genetic
 
 Harriet is committed to serving the bioinformatics community through organisations such as COMBINE and the International Society for Computational Biology Student Council. She has substantial experience in teaching bioinformatics and genetics at both the undergraduate and graduate level. She organises and teaches computational skills workshops in such areas as genomics, Software Carpentry, Python, R, Unix and Git version control.
 
+## Interviews and profiles
+* [Bioinformatician on the move - Science Meets Business](http://sciencemeetsbusiness.com.au/bioinformatician-on-the-move/)
+* [Meet the Student: Harriet Dashnow - Murdoch Childrens Research Institute](https://www.mcri.edu.au/news/meet-student-harriet-dashnow)
+* [Sharing posters: interview with Harriet Dashnow - F1000Research](http://blog.f1000research.com/2015/12/02/sharing-posters-interview-with-harriet-dashnow/)
+
 ## Presentations and Posters
 * [Figshare](https://figshare.com/authors/Harriet_Dashnow/813049)
 * [F1000](http://f1000research.com/search?q=dashnow)
