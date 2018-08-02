@@ -19,9 +19,9 @@ harriet.dashnow [at] mcri.edu.au
 * [ABACBS](http://www.abacbs.org/)
 
 ## Education
-* BSc (Genetics, Biochemistry and Molecular Biology), The University of Melbourne
-* BA (Psychology), The University of Melbourne
-* MSc (Bioinformatics), The University of Melbourne
+* Bachelor of Science (Genetics, Biochemistry and Molecular Biology), The University of Melbourne
+* Bachelor of Arts (Psychology), The University of Melbourne
+* Master of Science (Bioinformatics), The University of Melbourne
 
 ## Software
 * [STRetch](https://github.com/Oshlack/STRetch/): Detecting STR expansions from short-read sequencing data
