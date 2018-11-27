@@ -51,6 +51,9 @@ She has substantial experience in teaching bioinformatics and genetics at both t
 * [F1000](http://f1000research.com/search?q=dashnow)
 * [SlideShare](http://www.slideshare.net/AustralianBioinformatics/how-we-became-bioinformaticians)
 
+## Personal Interests
+* [Parenting Blog](https://www.teenyroo.com/blogs/news)
+
 ## Recent publications
 For a full list of publications please see [my profile on Google Scholar](http://scholar.google.com.au/citations?user=4Y3m53gAAAAJ&hl=en)
 <script>
