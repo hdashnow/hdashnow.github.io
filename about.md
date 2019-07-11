@@ -6,10 +6,10 @@ permalink: /about/
 
 ![_config.yml]({{ site.baseurl }}/images/Harriet_Dashnow_2016_square.jpg)
 
-Bioinformatician and PhD candidate<br>
-Murdoch Childrens Research Institute,<br>
-Royal Children’s Hospital<br>
-harriet.dashnow [at] mcri.edu.au
+Bioinformatician and postdoc<br>
+[Quinlan Lab](http://quinlanlab.org/)<br>
+University of Utah<br>
+h.dashnow [at] gmail [dot] com
 
 ## Links
 * [Linkedin profile](http://au.linkedin.com/in/hdashnow)
@@ -22,6 +22,7 @@ harriet.dashnow [at] mcri.edu.au
 * Bachelor of Science (Genetics, Biochemistry and Molecular Biology), The University of Melbourne
 * Bachelor of Arts (Psychology), The University of Melbourne
 * Master of Science (Bioinformatics), The University of Melbourne
+* PhD (Bioinformatics), The University of Melbourne (in progress)
 
 ## Software
 * [STRetch](https://github.com/Oshlack/STRetch/): Detecting STR expansions from short-read sequencing data
@@ -33,7 +34,7 @@ Bioinformatics, Genomics, Next-generation sequencing, Variant calling, Human med
 
 ## Biography
 
-Harriet Dashnow is a bioinformatician and PhD student at the University of Melbourne and the Murdoch Children’s Research Institute (MCRI). She is best known for her work in detecting STR expansions, but has also published bioinformatic methods for clinical exome sequencing and microbial gene detection. She has previously worked as a bioinformatician at the University of Melbourne and [Melbourne Bioinformatics](https://www.melbournebioinformatics.org.au/), where she worked on the [Melbourne Genomics Health Alliance](https://www.melbournegenomics.org.au/) project.
+Harriet Dashnow is a bioinformatics postdoc in the [Quinlan Lab](http://quinlanlab.org/) at the University of Utah. She did her PhD research in the [Oshlack Lab](http://oshlacklab.com/) at the Murdoch Children’s Research Institute (MCRI) and the University of Melbourne. She is best known for her work in detecting STR expansions, but has also published bioinformatic methods for clinical exome sequencing and microbial gene detection. She has previously worked as a bioinformatician at the University of Melbourne and [Melbourne Bioinformatics](https://www.melbournebioinformatics.org.au/), where she worked on the [Melbourne Genomics Health Alliance](https://www.melbournegenomics.org.au/) project.
 
 Harriet obtained a Bachelor of Arts (Psychology), a Bachelor of Science (Genetics, Biochemistry and Molecular Biology) and a Master of Science (Bioinformatics) with Dean’s Honours from the University of Melbourne. She was awarded an Australian Government Research Training Program (RTP) Scholarship, a Murdoch Children’s Research Institute Top Up Scholarship and a Australian Genomics Health Alliance PhD Award for her PhD studies.
 
