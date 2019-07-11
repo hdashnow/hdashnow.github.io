@@ -16,7 +16,7 @@ So now that I accept that I have a problem, what can I do about it? These sugges
 - See out diverse networks to share job ads.
 - Remove gender/race identifiers from CVs before they are considered.
 - Put wording in the job description that makes it clear you're looking for diversity. For example you could explicitly be open to people who are transitioning fields or mention that you can support visa applications.
-- Make job titles more flexible and/or less intimidating. For example some grounds might be more likely to apply for an "analyst" position rather than an "engineer" position, even if they had the same skills.
+- Make job titles more flexible and/or less intimidating. For example some people might be more likely to apply for an "analyst" position rather than an "engineer" position, even if they had the same skills.
 - If the applications pass through a recruitment organisation, and HR department, or some algorithm, consider that this may be introducing an additional layer of bias.
 
 There were lots of other great ideas (thanks to Miquela Stein for sharing your notes), but this is what I took away for the gathering. Some of these issues may be more or less relevant or apparent in academia, but there's still a lot we can learn from each other.
