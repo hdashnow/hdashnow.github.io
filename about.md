@@ -22,15 +22,16 @@ h.dashnow [at] gmail [dot] com
 * Bachelor of Science (Genetics, Biochemistry and Molecular Biology), The University of Melbourne
 * Bachelor of Arts (Psychology), The University of Melbourne
 * Master of Science (Bioinformatics), The University of Melbourne
-* PhD (Bioinformatics), The University of Melbourne (in progress)
+* PhD (Bioinformatics), The University of Melbourne
 
 ## Software
+* [STRling](https://github.com/quinlan-lab/STRling): Detecting novel (and reference)STR expansions from short-read sequencing data
 * [STRetch](https://github.com/Oshlack/STRetch/): Detecting STR expansions from short-read sequencing data
 * [SRST2](http://katholt.github.io/srst2/): Short Read Sequence Typing for Bacterial Pathogens
 * [Cpipe](http://cpipeline.org): a shared variant detection pipeline designed for diagnostic settings
 
 ## Research Interests
-Bioinformatics, Genomics, Next-generation sequencing, Variant calling, Human medical genomics, Bacterial genomics, Short Tandem Repeats (STRs).
+Bioinformatics, Genomics, Next-generation sequencing, Variant calling, Human medical genomics, Short Tandem Repeats (STRs).
 
 ## Biography
 
