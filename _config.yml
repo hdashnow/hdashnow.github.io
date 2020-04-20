@@ -1,8 +1,8 @@
 # Site settings
-title: Harriet Dashnow
-email: harriet.dashnow [at] mcri.edu.au
+title: Dr Harriet Dashnow
+email: h.dashnow [at] gmail [dot] com
 description: > # this means to ignore newlines until "baseurl:"
-    Bioinformatician and PhD candidate at the Murdoch Childrens Research Institute, Melbourne, Australia.
+    Bioinformatics postdoc in the Quinlan Lab, University of Utah.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://harrietdashnow.com/" # the base hostname & protocol for your site
 twitter_username: hdashnow
