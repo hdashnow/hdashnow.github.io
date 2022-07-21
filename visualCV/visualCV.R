@@ -13,14 +13,14 @@ VisualResume::VisualResume(
   timeline = data.frame(title = c("University of Melbourne", "University of Melbourne", "University of Melbourne", "Parental leave",
                                   "\n\n\nMurdoch Children’s Research Institute", "St Vincent’s Institute", 
                                   "\nSt Hilda’s College", "Australian National University", "Peter MacCallum Cancer Centre",
-                                  "University of Melbourne", "\nVictorian Life Sciences Computation Initiative, University of Melbourne", "Murdoch Children’s Research Institute",
+                                  "University of Melbourne", "\nVLSCI, University of Melbourne", "Murdoch Children’s Research Institute",
                                   "University of Utah", "Parental leave"
                                   ),
                         sub = c("Bachelor of Arts / Bachelor of Science", "Master of Science", "PhD", "",
                                 "\n\n\n\n\nTechnical Assistant, Cell and Gene Therapy", "Intern/Research Assistant, Brodnicki Lab",
                                 "\n\nResident Tutor", "Summer Intern, Easteal Lab", "Summer Intern, Campbell Lab", 
                                 "Intern/Research Assistant, Holt Lab", "\n\nBioinformatician", "Bioinformatician",
-                                "Postdoc, Quinlan Lab", ""
+                                "Postdoc, Quinlan Lab (current position)", ""
                                  ),
                         start = c(2007, 2012, 2015, 2017.5,
                                   2008, 2010.9,
@@ -32,7 +32,7 @@ VisualResume::VisualResume(
                                 2010.9, 2011.85,
                                 2014, 2012, 2012.15,
                                 2013.6, 2015.15, 2019.5,
-                                2022, 2021.15
+                                2022.8, 2021.15
                                  ),
                         side = c(1, 1, 1, 1,
                                  0, 0, 
@@ -45,11 +45,13 @@ VisualResume::VisualResume(
   events = data.frame(year = c(2014.7, 2014.9,
                                2015.5, 2017.5,
                                2017.7, 2018.5,
-                               2020.1, 2021.7),
+                               2020.1, 2020.9,
+                               2021.7, 2022.5),
                       title = c("SRST2 paper", "Australasian Genomic Technologies Association Grant for Bioinformatics training", 
                                 "Cpipe paper", "STRetch preprint/software", 
                                 "Australian Genomics Health Alliance Australian Genomics PhD top up scholarship", "STRetch paper",
-                                "BioData Catalyst Fellowship", "STRling preprint")),
+                                "BioData Catalyst Fellowship", "Australian Bioinformatics and Compuational Biology Society - PhD Thesis Award",
+                                "STRling preprint", "T32 Genomic Medicine Fellowship")),
   interests = list("computational" = c(rep("R, Python, Nim", 8), rep("nextflow, bpipe, WDL", 5), rep("Cloud computing", 8)),
                    "community" = c(rep("COMBINE", 5), rep("ABACBS", 5), rep("UPDA", 5)),
                    "SciCom and teaching" = c(rep("Elegant SciPy", 10), rep("Software Carpentry", 7), rep("Data Carpentry", 5), rep("mentoring", 7))
