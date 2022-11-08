@@ -17,7 +17,7 @@ h.dashnow [at] gmail [dot] com
 * [GitHub profile](http://github.com/hdashnow)
 * [COMBINE](http://combine.org.au)
 * [ABACBS](http://www.abacbs.org/)
-* <a rel="me" href="https://fediscience.org/@hdashnow">Mastodon profile</a>
+* <a rel="me" href="https://genomic.social/@hdashnow">Mastodon profile</a>
 
 ## Education
 * Bachelor of Science (Genetics, Biochemistry and Molecular Biology), The University of Melbourne
