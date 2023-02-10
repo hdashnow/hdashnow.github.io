@@ -9,7 +9,6 @@ permalink: /about/
 Bioinformatician and postdoc<br>
 [Quinlan Lab](http://quinlanlab.org/)<br>
 University of Utah<br>
-h.dashnow [at] gmail [dot] com
 
 ## Links
 * [Linkedin profile](http://au.linkedin.com/in/hdashnow)

@@ -1,6 +1,6 @@
 # Site settings
 title: Dr Harriet Dashnow
-email: h.dashnow [at] gmail [dot] com
+email: .
 description: > # this means to ignore newlines until "baseurl:"
     Bioinformatics postdoc in the Quinlan Lab, University of Utah.
 baseurl: "" # the subpath of your site, e.g. /blog/
