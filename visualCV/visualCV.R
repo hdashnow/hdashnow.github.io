@@ -6,7 +6,7 @@ jpeg('Harriet-Dashnow-visualCV.jpg', width = 1500, height = 800)
 VisualResume::VisualResume(
   titles.left = c("Harriet Dashnow", "Bioinformatician", 
                   "Built in R using the InfoResume package: www.ndphillips.github.io/inforesume"),
-  titles.right = c("www.harrietdashnow.com", "h.dashnow@gmail.com", ""),
+  titles.right = c("www.harrietdashnow.com", "Last updated Feb 2023", ""),
   titles.right.cex = c(2, 1.5, 1),
   titles.left.cex = c(4, 2, 1),
   timeline.labels = c("Education", "Employment"),
@@ -32,7 +32,7 @@ VisualResume::VisualResume(
                                 2010.9, 2011.85,
                                 2014, 2012, 2012.15,
                                 2013.6, 2015.15, 2019.5,
-                                2022.8, 2021.15
+                                2023.2, 2021.15
                                  ),
                         side = c(1, 1, 1, 1,
                                  0, 0, 
@@ -46,12 +46,14 @@ VisualResume::VisualResume(
                                2015.5, 2017.5,
                                2017.7, 2018.5,
                                2020.1, 2020.9,
-                               2021.7, 2022.5),
+                               2021.7, 2022.5,
+                               2023.1),
                       title = c("SRST2 paper", "Australasian Genomic Technologies Association Grant for Bioinformatics training", 
                                 "Cpipe paper", "STRetch preprint/software", 
                                 "Australian Genomics Health Alliance Australian Genomics PhD top up scholarship", "STRetch paper",
                                 "BioData Catalyst Fellowship", "Australian Bioinformatics and Compuational Biology Society - PhD Thesis Award",
-                                "STRling preprint", "T32 Genomic Medicine Fellowship")),
+                                "STRling preprint", "T32 Genomic Medicine Fellowship", 
+                                "K99")),
   interests = list("computational" = c(rep("R, Python, Nim", 8), rep("nextflow, bpipe, WDL", 5), rep("Cloud computing", 8)),
                    "community" = c(rep("COMBINE", 5), rep("ABACBS", 5), rep("UPDA", 5)),
                    "SciCom and teaching" = c(rep("Elegant SciPy", 10), rep("Software Carpentry", 7), rep("Data Carpentry", 5), rep("mentoring", 7))
