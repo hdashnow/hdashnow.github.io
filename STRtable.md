@@ -10,7 +10,9 @@ permalink: /strs/
 
 ## STR disease loci resource
 
-Contributors: Harriet Dashnow, Laurel Hiatt
+Maintainers: Harriet Dashnow, Laurel Hiatt
+
+Contributions welcome [here](https://github.com/hdashnow/STRtable).
 
 <table>
   {% for row in site.data.STRtable.STR-disease-loci %}
