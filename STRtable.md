@@ -10,7 +10,20 @@ permalink: /strs/
 
 ## STR disease loci resource
 
-Contributers: Harriet Dashnow, Laurel Hiatt
+Contributors: Harriet Dashnow, Laurel Hiatt
 
+<table>
+  {% for row in site.data.STRtable.STR-disease-loci %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
 
-__Coming Soon_
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
