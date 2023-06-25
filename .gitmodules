@@ -1,0 +1,3 @@
+[submodule "STRtable"]
+	path = STRtable
+	url = git@github.com:hdashnow/STRtable.git
