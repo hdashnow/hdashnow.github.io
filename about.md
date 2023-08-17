@@ -10,6 +10,16 @@ Bioinformatician and postdoc<br>
 [Quinlan Lab](http://quinlanlab.org/)<br>
 University of Utah<br>
 
+## Software
+* [STRling](https://github.com/quinlan-lab/STRling): Detecting novel (and reference) STR expansions from short-read sequencing data
+* [TRGT](https://github.com/PacificBiosciences/trgt): Genotyping tandem repeats from PacBio HiFi data
+* [STRetch](https://github.com/Oshlack/STRetch/): Detecting STR expansions from short-read sequencing data
+* [SRST2](http://katholt.github.io/srst2/): Short Read Sequence Typing for Bacterial Pathogens
+* [Cpipe](http://cpipeline.org): a shared variant detection pipeline designed for diagnostic settings
+
+## Research Interests
+Bioinformatics, Genomics, Next-generation sequencing, Variant calling, Human medical genomics, Short Tandem Repeats (STRs).
+
 ## Links
 * [Linkedin profile](http://au.linkedin.com/in/hdashnow)
 * [Publications](http://scholar.google.com.au/citations?user=4Y3m53gAAAAJ&hl=en)
@@ -17,21 +27,6 @@ University of Utah<br>
 * [COMBINE](http://combine.org.au)
 * [ABACBS](http://www.abacbs.org/)
 * <a rel="me" href="https://genomic.social/@hdashnow">Mastodon profile</a>
-
-## Education
-* Bachelor of Science (Genetics, Biochemistry and Molecular Biology), The University of Melbourne
-* Bachelor of Arts (Psychology), The University of Melbourne
-* Master of Science (Bioinformatics), The University of Melbourne
-* PhD (Bioinformatics), The University of Melbourne
-
-## Software
-* [STRling](https://github.com/quinlan-lab/STRling): Detecting novel (and reference)STR expansions from short-read sequencing data
-* [STRetch](https://github.com/Oshlack/STRetch/): Detecting STR expansions from short-read sequencing data
-* [SRST2](http://katholt.github.io/srst2/): Short Read Sequence Typing for Bacterial Pathogens
-* [Cpipe](http://cpipeline.org): a shared variant detection pipeline designed for diagnostic settings
-
-## Research Interests
-Bioinformatics, Genomics, Next-generation sequencing, Variant calling, Human medical genomics, Short Tandem Repeats (STRs).
 
 ## Biography
 
@@ -42,6 +37,12 @@ Harriet obtained a Bachelor of Arts (Psychology), a Bachelor of Science (Genetic
 Harriet is committed to supporting the bioinformatics community. She has served as Vice President and then President of [COMBINE](https://combine.org.au/) (the International Society for Computational Biology Regional Student Group for Australia) and has served as the student representative on the [Australian Bioinformatics and Computational Biology Society](https://www.abacbs.org/) executive committee.
 
 She has substantial experience in teaching bioinformatics and genetics at both the undergraduate and graduate level. She organises and teaches computational skills workshops in such areas as genomics, Software and Data Carpentry, Python, R, Unix and Git version control. She co-authored the O’Reilly programming book [Elegant SciPy](http://shop.oreilly.com/product/0636920038481.do).
+
+## Education
+* Bachelor of Science (Genetics, Biochemistry and Molecular Biology), The University of Melbourne
+* Bachelor of Arts (Psychology), The University of Melbourne
+* Master of Science (Bioinformatics), The University of Melbourne
+* PhD (Bioinformatics), The University of Melbourne
 
 ## Interviews and profiles
 * [Bioinformatician on the move - Science Meets Business](http://sciencemeetsbusiness.com.au/bioinformatician-on-the-move/)
