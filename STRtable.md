@@ -4,28 +4,11 @@ title: STR disease loci
 permalink: /strs/
 ---
 
-## Useful Resources
-* [gnomAD STRs](https://gnomad.broadinstitute.org/short-tandem-repeats?dataset=gnomad_r3)
-* [STRipy](https://stripy.org/database)
+## [STRchive](http://strchive.org/)
 
-## STR disease loci resource
+A database of STRs associated with disease in humans.
 
 Maintainers: Harriet Dashnow, Laurel Hiatt
 
-Contributions welcome [here](https://github.com/hdashnow/STRtable).
+Contributions welcome [here](https://github.com/hdashnow/STRchive).
 
-<table>
-  {% for row in site.data.STRtable.STR-disease-loci %}
-    {% if forloop.first %}
-    <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
-    {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-  {% endfor %}
-</table>
