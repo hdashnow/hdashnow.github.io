@@ -6,9 +6,10 @@ permalink: /about/
 
 ![_config.yml]({{ site.baseurl }}/images/Harriet_Dashnow_2016_square.jpg)
 
-Bioinformatician and postdoc<br>
-[Quinlan Lab](http://quinlanlab.org/)<br>
-University of Utah<br>
+Assistant Professor<br>
+[dashnowlab.org](https://dashnowlab.org/)<br>
+[Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
+University of Colorado Anschutz Medical Campus<br>
 
 ## Software
 * [STRling](https://github.com/quinlan-lab/STRling): Detecting novel (and reference) STR expansions from short-read sequencing data
@@ -30,7 +31,8 @@ Bioinformatics, Genomics, Next-generation sequencing, Variant calling, Human med
 
 ## Biography
 
-Harriet Dashnow is a bioinformatics postdoc in the [Quinlan Lab](http://quinlanlab.org/) at the University of Utah. She did her PhD research in the [Oshlack Lab](http://oshlacklab.com/) at the Murdoch Children’s Research Institute (MCRI) and the University of Melbourne. She is best known for her work in detecting STR expansions, but has also published bioinformatic methods for clinical exome sequencing and microbial gene detection. She has previously worked as a bioinformatician at the University of Melbourne and [Melbourne Bioinformatics](https://www.melbournebioinformatics.org.au/), where she worked on the [Melbourne Genomics Health Alliance](https://www.melbournegenomics.org.au/) project.
+Harriet Dashnow is an Assistant Professor in the [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi)
+at the University of Colorado Anschutz Medical Campus. Harriet did her postdoc in the [Quinlan Lab](http://quinlanlab.org/) at the University of Utah. She did her PhD research in the [Oshlack Lab](http://oshlacklab.com/) at the Murdoch Children’s Research Institute (MCRI) and the University of Melbourne. She is best known for her work in detecting STR expansions, but has also published bioinformatic methods for clinical exome sequencing and microbial gene detection. She has previously worked as a bioinformatician at the University of Melbourne and [Melbourne Bioinformatics](https://www.melbournebioinformatics.org.au/), where she worked on the [Melbourne Genomics Health Alliance](https://www.melbournegenomics.org.au/) project. You can learn more about her lab and research here: [dashnowlab.org](https://dashnowlab.org/).
 
 Harriet obtained a Bachelor of Arts (Psychology), a Bachelor of Science (Genetics, Biochemistry and Molecular Biology) and a Master of Science (Bioinformatics) with Dean’s Honours from the University of Melbourne. She was awarded an Australian Government Research Training Program (RTP) Scholarship, a Murdoch Children’s Research Institute Top Up Scholarship and a Australian Genomics Health Alliance PhD Award for her PhD studies.
 
@@ -48,11 +50,6 @@ She has substantial experience in teaching bioinformatics and genetics at both t
 * [Bioinformatician on the move - Science Meets Business](http://sciencemeetsbusiness.com.au/bioinformatician-on-the-move/)
 * [Meet the Student: Harriet Dashnow - Murdoch Childrens Research Institute](https://www.mcri.edu.au/news/meet-student-harriet-dashnow)
 * [Sharing posters: interview with Harriet Dashnow - F1000Research](http://blog.f1000research.com/2015/12/02/sharing-posters-interview-with-harriet-dashnow/)
-
-## Presentations and Posters
-* [Figshare](https://figshare.com/authors/Harriet_Dashnow/813049)
-* [F1000](http://f1000research.com/search?q=dashnow)
-* [SlideShare](http://www.slideshare.net/AustralianBioinformatics/how-we-became-bioinformaticians)
 
 ## Selected publications
 For a full list of publications please see [my profile on Google Scholar](http://scholar.google.com.au/citations?user=4Y3m53gAAAAJ&hl=en)
